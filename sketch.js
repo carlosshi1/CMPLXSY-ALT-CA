@@ -1,3 +1,4 @@
+// Credits to Nature of Code: https://p5js.org/examples/simulate-wolfram-ca.html
 
 let w = 10;
 // An array of 0s and 1s
