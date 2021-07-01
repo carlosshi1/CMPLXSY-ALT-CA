@@ -10,33 +10,36 @@ let generation = 0;
 let ruleset = [];
 
 function setup() {
-  createCanvas(700, 700);
+  createCanvas(1000, 700);
   ruleset = generateRuleset();
   console.log(ruleset);
   cells = Array(floor(width / w));
 
-  // for (let i = 0; i < cells.length; i++) {
-  //   cells[i] = Math.floor(Math.random() * 2);
-  // }
-
   for (let i = 0; i < cells.length; i++) {
-    cells[i] = 0;
+    cells[i] = Math.floor(Math.random() * 2);
   }
-  cells[cells.length/2] = 1;
+  console.log(cells)
+
+  // for (let i = 0; i < cells.length; i++) {
+  //   cells[i] = 0;
+  // }
+  // cells[cells.length/2] = 1;
 }
 
 function draw() {
   for (let i = 0; i < cells.length; i++) {
-    if (cells[i] === 1) {
-      fill(200);
+    if (cells[i] === 0) {
+      // fill(200);
+      fill('black')
     } else {
-      r = random(155); // r is a random number between 0 - 255
-      g = random(155,200); // g is a random number betwen 100 - 200
-      b = random(200,255); // b is a random number between 0 - 100
+      r = random(100); // r is a random number between 0 - 255
+      g = random(0); // g is a random number betwen 100 - 200
+      b = random(150); // b is a random number between 0 - 100
 
       fill(r,g,b);
-      hexagon((generation%2) * w + 2 * i * w, generation * (w + 5), w, 1);
+      // fill('yellow')
     }
+    hexagon((generation%2) * w + 2 * i * w, generation * (w + 5), w);
   }
   if (generation < height/w) {
     generate();
