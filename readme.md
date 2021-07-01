@@ -34,3 +34,9 @@ hexagon((generation%2) * w + 2 * i * w, generation * (w + 5), w, 1);
 Using the yellow and black color, I managed to create an artwork that looks like a swarm of bees. I also somehow look like the bees are in the shape of spaceships.
 
 The ruleset used here is [1,0,0,0,0,0,0,1] or Rule 129.
+
+### Proposed Name: Ambient Drizzle
+![Drizzle](artworks/drizzle.jpg)
+Shades of blue reminds me of rain, shades of light blue exudes calmness and ambience.
+
+The ruleset used here is [0,1,0,0,0,0,1,0] or Rule 66.
