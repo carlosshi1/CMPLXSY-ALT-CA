@@ -52,3 +52,7 @@ The ruleset used here is [0,1,0,0,0,0,1,0] or Rule 66.
 Shades of blue and red paints the jail cell bars. Red reminds me of blood and blue represents the ice cold. The artwork exudes a feeling of darkness and hopelessness.
 
 The ruleset used here is [1,0,1,1,0,0,1,1] or Rule 179.
+
+# References
+- [p5.js](https://p5js.org/) - a library that helps draw code
+- [Nature of Code by Daniel Shiffman](https://natureofcode.com/book/chapter-7-cellular-automata/) - a great website that teaches you about the wonders of cellular automata
