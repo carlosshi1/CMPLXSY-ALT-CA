@@ -40,3 +40,9 @@ The ruleset used here is [1,0,0,0,0,0,0,1] or Rule 129.
 Shades of blue reminds me of rain, shades of light blue exudes calmness and ambience.
 
 The ruleset used here is [0,1,0,0,0,0,1,0] or Rule 66.
+
+### Proposed Name: Darkness Prison
+![Dark](artworks/darkness.jpg)
+Shades of blue and red paints the jail cell bars. Red reminds me of blood and blue represents the ice cold. The artwork exudes a feeling of darkness and hopelessness.
+
+The ruleset used here is [1,0,1,1,0,0,1,1] or Rule 179.
