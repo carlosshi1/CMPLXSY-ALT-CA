@@ -2,6 +2,12 @@
 
 The CA used for creating artworks is the most basic one, Wolfram CA or elmentary CA. The file `sketch.js` which is used by p5.js generates the artwork confined to the rules of the Wolfram CA. The code in `sketch.js` is a modified version found [in the p5.js website](https://p5js.org/examples/simulate-wolfram-ca.html).
 
+### How to Run
+Clone the repository and just run the `index.html` file and you're good to go. Refresh for a fresh iteration of the CA.
+
+### How to Edit
+Modify the file called `sketch.js` which contains the rules used in the Wolfram CA and functions to draw shapes. It is recommended to install p5.vscode and live server when using VS Code to edit.
+
 # Modifications to the Code
 I made changes to the code in an attempt to 'spice up' the automata a little bit. I drawn inspiration for some of these changes from the exercises found in [Nature of Code Website](https://natureofcode.com/book/chapter-7-cellular-automata/).
 
