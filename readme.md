@@ -55,7 +55,7 @@ The ruleset used here is [1,0,1,1,0,0,1,1] or Rule 179.
 
 ### Proposed Name: Silent Hills
 ![Hills](artworks/hills.jpg)
-The diagonals makes it look like there are many mountains or hills. It is reminiscent of the hills founs in the Philippines.
+The diagonals makes it look like there are many mountains or hills. It is reminiscent of the hills found in the Philippines.
 
 The ruleset used here is [0,1,1,0,0,0,1,1] or Rule 99.
 
