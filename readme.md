@@ -63,6 +63,11 @@ The ruleset used here is [1,1,0,0,1,1,0,0] or Rule 204.
 Horizontal lines kind of look like the floors of a tall building, on the other hand the shorter ones look like the elevantors to that building.
 
 The ruleset used here is [0,0,0,1,1,1,0,1] or Rule 29.
+### Proposed Name: Blocks
+![Blocks](artworks/tetris.jpg)
+One of my favorites, since everything seeems to fit together. The white parts reminds me of the L-shaped tetris blocks.
+
+The ruleset used here is [0,0,0,0,0,1,0,1] or Rule 5.
 
 # References
 - [p5.js](https://p5js.org/) - a library that helps draw code
