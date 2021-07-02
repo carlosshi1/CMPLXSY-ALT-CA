@@ -33,14 +33,16 @@ function draw() {
       // fill(200);
       fill('black')
     } else {
-      r = random(100); // r is a random number between 0 - 255
-      g = random(0); // g is a random number betwen 100 - 200
-      b = random(150); // b is a random number between 0 - 100
+      // r = random(100); // r is a random number between 0 - 255
+      // g = random(0); // g is a random number betwen 100 - 200
+      // b = random(150); // b is a random number between 0 - 100
 
-      fill(r,g,b);
-      // fill('yellow')
+      // fill(r,g,b);
+      noStroke();
+      fill('white')
     }
-    hexagon((generation%2) * w + 2 * i * w, generation * (w + 5), w);
+    rect(i * w, generation * w, w, w);
+    // hexagon((generation%2) * w + 2 * i * w, generation * (w + 5), w);
   }
   if (generation < height/w) {
     generate();
