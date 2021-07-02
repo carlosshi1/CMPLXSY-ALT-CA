@@ -52,11 +52,12 @@ The ruleset used here is [0,1,0,0,0,0,1,0] or Rule 66.
 Shades of blue and red paints the jail cell bars. Red reminds me of blood and blue represents the ice cold. The artwork exudes a feeling of darkness and hopelessness.
 
 The ruleset used here is [1,0,1,1,0,0,1,1] or Rule 179.
-### Proposed Name: Barcode
-![Bar](artworks/barcode.jpg)
-Thick and thin stripes represent a barcode.
 
-The ruleset used here is [1,1,0,0,1,1,0,0] or Rule 204.
+### Proposed Name: Silent Hills
+![Hills](artworks/hills.jpg)
+The diagonals makes it look like there are many mountains or hills. It is reminiscent of the hills founs in the Philippines.
+
+The ruleset used here is [0,1,1,0,0,0,1,1] or Rule 99.
 
 ### Proposed Name: Skyscrapers
 ![Skyscraper](artworks/skyscrapers.jpg)
